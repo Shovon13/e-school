@@ -1,0 +1,40 @@
+body{
+    margin: 0;
+}
+.container{
+    margin-bottom: 100px;
+}
+.logo{
+    width: 20%;
+}
+.nav-link{
+    color: black;
+}
+.bg-color{
+    background: #F0FFF0;
+    height: 576px;
+}
+#sign-in{
+    color: white;
+    background: #21B573;
+    width: 100px;
+    height: 40px;
+    border-radius: 30px;
+    text-align: center;
+}
+.get-started{
+    color: white;
+    background: #21B573;
+    width: 150px;
+    height: 40px;
+    border: none;
+    border-radius: 35px;
+    text-align: center;
+}
+.any-schedule{
+    color: #21B573;
+}
+.ready-to-learn{
+    color: #FD511A;
+    font-weight: 700;
+}
